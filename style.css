@@ -1,0 +1,32 @@
+.for-banner{
+    width: 100%;
+    height: 200px;
+    background-image: url(images/background2.jpg);
+    background-repeat: no-repeat;
+    
+    
+}
+
+#for-inline{
+    display:inline-flex
+}
+.for-button{
+    text-decoration: none;
+    
+    background: linear-gradient(#e66465, #9198e5);
+    border: 2px solid;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 100%;
+}
+.for-felx{
+    display:flex;
+}
+.for-box-shadow{
+    
+    box-shadow: 10px 20px 30px brown;
+    border-image: linear-gradient(blue,rgb(66, 66, 80));
+    border-image-slice: 1;
+}
